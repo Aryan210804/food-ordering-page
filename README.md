@@ -1,4 +1,6 @@
-AK Food Hub
+                                                                                      AK Food Hub
+
+
 AK Food Hub is a simple web application for an online food ordering system. It displays a menu of food items, allows customers to add items to their order, and dynamically updates the total bill.
 
 Features
